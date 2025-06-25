@@ -35,7 +35,7 @@ Hands-on analog circuit work involving audio amplification, filter design, and s
 - **Audio Amplifier Design**  
   Circuit simulated using Multisim and physically built
 
-- **RC Low-Pass Filter**  
+- **Active and Passic RC Filters**  
   Frequency response testing and Bode plot analysis
 
 ---
