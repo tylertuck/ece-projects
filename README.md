@@ -43,8 +43,8 @@ Hands-on analog circuit work involving audio amplification, filter design, and s
 ###  C++ Programming Projects
 Object-oriented programming projects created for COP 2274 (C++ for Engineers).
 
-- **Movie Ticket Booking System**  
-  Dynamic memory + class-based seat booking
+- **Basic Operations Calculator**  
+  Class based functions and object oriented programming
 
 - **Grade Calculator**  
   Uses input parsing, control flow, and arrays
