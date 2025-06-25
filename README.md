@@ -1,4 +1,4 @@
-# ee-projects
+# ece-projects
 Personal Projects related to ECE
 # Tyler Tucker's Electrical/Computer Engineering Projects
 
